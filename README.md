@@ -1,1 +1,1 @@
-# A Rough Testing Prototype Of Pong Game In SDL2.
+# A Prototype Of Pong Game In SDL2.
